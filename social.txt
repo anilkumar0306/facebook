@@ -2,3 +2,5 @@ whatsapp
 instagram
 facebook
 twitter
+google
+snapchat
